@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(176, 193, 176);
+}
+p{
+    color:blue;
+    text-align: left;
+}
+h1{
+    color:rgb(40, 40, 13);
+    background-color: rgb(244, 187, 187);
+    text-align: center;
+}
